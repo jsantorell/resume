@@ -1,0 +1,27 @@
+body{
+    background: #FF0000;
+    
+}
+
+.container{
+    
+    width:100%;
+    background: #FF0000;
+    
+}
+.wrapper{
+    
+    width: 80%;
+    background: #FFF;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 40px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+   
+    
+}
+
+li{
+    text-decoration: none;
+}
